@@ -1,0 +1,14 @@
+#body-id {
+  background-color: blueviolet;
+}
+
+#country-id {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.country-div {
+  border: 10px solid green;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
